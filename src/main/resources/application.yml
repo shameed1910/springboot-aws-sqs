@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    region:
+      static: region-name
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: access-key
+      secret-key: secret-key
+    end-point:
+      uri: end-point-uri
